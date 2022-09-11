@@ -9,3 +9,7 @@
 - 助教课后题讲义: https://github.com/lxr19950424/ic3/blob/main/lesson01/第一课作业点评讲义.md
 - 上课ppt: https://github.com/lxr19950424/ic3/blob/main/lesson01/ICP%20开发入门课程第一课.pdf
 
+#### 第二课 Motor 语言入门
+
+- 上课ppt: https://github.com/lxr19950424/ic3/blob/main/lesson02/ICP%20开发入门课程第二课.pdf
+
